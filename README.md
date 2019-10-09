@@ -7,9 +7,10 @@ sudo apt-get install texlive-full
 Then install TeXstudio through https://www.texstudio.org/#download or through ppa:
 
 sudo add-apt-repository ppa:sunderme/texstudio
+
 sudo apt-get update
 
-- FOR DARK THEME - 
+- FOR DARK THEME 
 
 Copy 
 
@@ -29,4 +30,4 @@ Open new File.
 
 Maybe restart TeXStudio.
 
-- DONE - 
+- DONE
